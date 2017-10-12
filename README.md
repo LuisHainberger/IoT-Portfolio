@@ -1,4 +1,11 @@
 # IoT-Portfolio
+
+## Team: 
+ 
+Luis Hainberger 
+
+Kevin Pirklbauer (https://github.com/pirklbauer31/IOT_Porftolio_2017)
+
 ## 1. Lesson 
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson1.md
 
@@ -9,9 +16,16 @@ notes:
 
 ## 1. Exercise
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise1.md
+
+main parts:
+
+research, dokumentation, installation of software, assamble devices
+### src:
+https://github.com/LuisHainberger/IoT-Portfolio/tree/master/Exercise/EX01/arduino_wifi_test
+
 ## 2. Lesson
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson2.md
-## IoT Story
+### IoT Story
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/IoTstory.md
 
 
@@ -21,6 +35,12 @@ notes:
 
 ## 2. Exercise
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise2.md
+main parts:
+
+research, dokumentation
+### src:
+https://github.com/LuisHainberger/IoT-Portfolio/tree/master/Exercise/EX02/HTTPSRequest
+
 ## 3. Lesson
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson3.md
 
@@ -31,8 +51,15 @@ notes:
 
 ## 3. Exercise
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise3.md
+main parts:
+
+research, dokumentation
+### src:
+
+
 ## 4. Lesson
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson4.md
+
 
 
 notes:
@@ -41,3 +68,15 @@ notes:
 
 ## 4. Exercise
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise4.md
+main parts:
+
+research, dokumentation
+### src:
+
+
+## Project 1
+
+
+### scenario and list of components:
+https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project_1.md
+### src:
