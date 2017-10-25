@@ -1,0 +1,16 @@
+# ex7
+- connect scale with notebook
+- connect wemos to pi and scale(d3,d4,g)
+- include arduino_ulno_i2c_library to arduino ide
+- flash it on scale
+- flash ulno iot to arduino
+- make new ulno iot project
+- alter sys conf (ssid password)
+- copy node template for scale node
+- change to scale node 
+- flash to wemos with initialize
+- add i2c connector in autostart.pi
+- flsh it with initialize noflash
+- test with mqtt all
+- recieve counter message from scale on wemos
+- modify code to not recieve the counter but the scaling value (code used from Project2)
