@@ -72,6 +72,7 @@ main parts:
 
 research, dokumentation
 ### src:
+https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX04
 
 
 ## Project 1
@@ -80,3 +81,14 @@ research, dokumentation
 ### scenario and list of components:
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project_1.md
 ### src:
+ https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
+ 
+ ## 5. Exercise
+ https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX05
+ ## 6. Exercise
+ ## 7. Lesson
+ 
+ ## 7. Exercise
+ ## Preoject 2
+ ## 8. Lesson
+ ## 8. Exercise
