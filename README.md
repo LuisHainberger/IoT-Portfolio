@@ -87,8 +87,15 @@ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project_1.
  https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX05
  ## 6. Exercise
  ## 7. Lesson
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson7.md
  
  ## 7. Exercise
- ## Preoject 2
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise7.md
+ ### src:
+ 
+ ## Project 2
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project2.md
+
  ## 8. Lesson
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson8.md
  ## 8. Exercise
