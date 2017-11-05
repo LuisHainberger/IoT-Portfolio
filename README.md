@@ -55,6 +55,7 @@ main parts:
 
 research, dokumentation
 ### src:
+https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX03/MQTT_Simulator
 
 
 ## 4. Lesson
@@ -77,11 +78,10 @@ https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX04
 
 ## Project 1
 
-
 ### scenario and list of components:
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project_1.md
 ### src:
- https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
+https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
  
  ## 5. Exercise
  https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX05
@@ -98,4 +98,19 @@ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project_1.
 
  ## 8. Lesson
  https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson8.md
+ 
  ## 8. Exercise
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise8.md
+ ### src:
+ 
+ ## 9. Lesson
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson9.md
+ 
+ ## 10. Lesson
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson10.md
+ 
+ ## 11. Lesson
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson11.md
+ 
+ 
+ ## Projekt3
