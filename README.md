@@ -6,6 +6,8 @@ Luis Hainberger
 
 Kevin Pirklbauer (https://github.com/pirklbauer31/IOT_Porftolio_2017)
 
+
+
 ## 1. Lesson 
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson1.md
 
@@ -13,6 +15,7 @@ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson1.md
 notes:
 - IoT is a fascinating concept
 - development of IoT-Systems can be very complex
+
 
 ## 1. Exercise
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise1.md
@@ -22,6 +25,9 @@ main parts:
 research, dokumentation, installation of software, assamble devices
 ### src:
 https://github.com/LuisHainberger/IoT-Portfolio/tree/master/Exercise/EX01/arduino_wifi_test
+
+
+
 
 ## 2. Lesson
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson2.md
