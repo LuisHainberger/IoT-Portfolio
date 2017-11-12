@@ -51,6 +51,7 @@ notes:
 
 ## 3. Exercise
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise3.md
+
 main parts:
 
 research, dokumentation
@@ -68,6 +69,7 @@ notes:
 
 ## 4. Exercise
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise4.md
+
 main parts:
 
 research, dokumentation
@@ -78,27 +80,36 @@ https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX04
 ## Project 1
 
 ### scenario and list of components:
+
 https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project_1.md
 ### src:
+
 https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
  ## 5. Lesson
  not present due to illness
  ## 5. Exercise
  https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/05_Exercise_Notes.md
+ 
  - not present due to illness (messenger communication with Kevin)
+ 
  main parts:
 
  research 
+ 
  ### src:
+ 
  https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX05
  
  ## 6. Lesson/Exercise
  - not present due to illness (messenger communication with Kevin)
  ## 7. Lesson
+ 
  https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson7.md
  
  ## 7. Exercise
+ 
  - Work on Project 2
+ 
  https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise7.md
 
  
@@ -115,10 +126,12 @@ https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
  - thank god there is LORA with its huge link budget and its low power consumption
  
  ## 8. Exercise
+ 
  - Setup / test LORA
  - Continue work on Project 2
+ 
  https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise8.md
- ### src:
+ 
  
  ## 9. Lesson
  https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson9.md
@@ -134,6 +147,7 @@ https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
  
  ## 11. Lesson
  https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/lesson11.md
+ 
   notes:
  - wow... i did not thought about art and IoT in combination.
  
