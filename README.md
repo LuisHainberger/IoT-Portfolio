@@ -114,3 +114,6 @@ https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
  
  
  ## Projekt3
+ ### Scenario:
+ https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/scenario.md
+ 
